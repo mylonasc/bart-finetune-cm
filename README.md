@@ -1,5 +1,5 @@
-# interview_nlp_case
-This repository contains code for training the `BART` model in Twitter Sentiments.
+# bart finetune
+This repository contains code for training the `BART` model in Twitter Sentiment classification.
 
 Some basic cleaning of the data is performed before training.
 
