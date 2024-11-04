@@ -1,0 +1,6 @@
+
+torch>=2.5.1
+accelerate>=0.26.0
+trainsformers
+pandas>=2.2.3
+scikit-learn
